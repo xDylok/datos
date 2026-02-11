@@ -118,4 +118,26 @@
     "$date": "2026-02-11T03:38:30.816Z"
   },
   "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bfa1d74c5027881899a22"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:40:13.149Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bfa1d74c5027881899a24"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:40:13.274Z"
+  },
+  "usuario_ip": "127.0.0.1"
 }]
