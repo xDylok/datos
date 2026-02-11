@@ -85,4 +85,37 @@
     "$date": "2026-02-11T03:11:31.312Z"
   },
   "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf9b474c5027881899a1c"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:38:28.849Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf9b674c5027881899a1e"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:38:30.312Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf9b674c5027881899a20"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:38:30.816Z"
+  },
+  "usuario_ip": "127.0.0.1"
 }]
