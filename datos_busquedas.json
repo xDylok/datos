@@ -140,4 +140,59 @@
     "$date": "2026-02-11T03:40:13.274Z"
   },
   "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698c95b13f5324163eb91524"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T14:44:01.329Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698c95b43f5324163eb91526"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T14:44:04.188Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698c95ba3f5324163eb91528"
+  },
+  "termino_busqueda": "Intel",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T14:44:10.081Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698c95ce3f5324163eb9152a"
+  },
+  "termino_busqueda": "Laptop",
+  "cantidad_resultados": 0,
+  "fecha": {
+    "$date": "2026-02-11T14:44:30.001Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698c95f83f5324163eb9152c"
+  },
+  "termino_busqueda": "Laptop",
+  "cantidad_resultados": 0,
+  "fecha": {
+    "$date": "2026-02-11T14:45:12.098Z"
+  },
+  "usuario_ip": "127.0.0.1"
 }]
