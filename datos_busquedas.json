@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "698bf2ab74c5027881899a0c"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:08:27.924Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf33a74c5027881899a0e"
+  },
+  "termino_busqueda": "Intel",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:10:50.613Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf34074c5027881899a10"
+  },
+  "termino_busqueda": "Ryzen",
+  "cantidad_resultados": 1,
+  "fecha": {
+    "$date": "2026-02-11T03:10:56.596Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf34974c5027881899a12"
+  },
+  "termino_busqueda": "Teclado",
+  "cantidad_resultados": 0,
+  "fecha": {
+    "$date": "2026-02-11T03:11:05.583Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf35674c5027881899a14"
+  },
+  "termino_busqueda": "Teclado",
+  "cantidad_resultados": 0,
+  "fecha": {
+    "$date": "2026-02-11T03:11:18.027Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf35a74c5027881899a16"
+  },
+  "termino_busqueda": "Mouse",
+  "cantidad_resultados": 0,
+  "fecha": {
+    "$date": "2026-02-11T03:11:22.874Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf35f74c5027881899a18"
+  },
+  "termino_busqueda": "Intel",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:11:27.267Z"
+  },
+  "usuario_ip": "127.0.0.1"
+},
+{
+  "_id": {
+    "$oid": "698bf36374c5027881899a1a"
+  },
+  "termino_busqueda": "RTX",
+  "cantidad_resultados": 2,
+  "fecha": {
+    "$date": "2026-02-11T03:11:31.312Z"
+  },
+  "usuario_ip": "127.0.0.1"
+}]
